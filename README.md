@@ -8,6 +8,7 @@ The goal of this project is to make a basic lightweight OS for the Raspberry Pi 
 * SDCARD
 * Keyboard
 * Mouse
+* Serial console support via TX/RX lines
 * (N)(P)Curses Clone + panels
 * HDMI
 * exFat
@@ -19,6 +20,14 @@ The goal of this project is to make a basic lightweight OS for the Raspberry Pi 
 * TCP/IP Stack for IPv4 and IPv6
 * Ethernet Stack
 * USB External Hard Drive support
+* pdksh for first program / shell + for start scripting and services in general
+* Python 3.x
+* Lua
+* RasperryPi libs for python
+* JAVA! (and associated RasperryPi Libs)
+* Native support for SkipJack NSA Encryption Algorithm because reasons
+* No User/groups logins, as this adds too much complexity that is not desired for intended applications.
+* Signed executable security protection + warnings
 
 ## License
  
